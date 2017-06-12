@@ -11,10 +11,6 @@ import (
 	log15 "gopkg.in/inconshreveable/log15.v2"
 )
 
-//Милосердов Егор
-//Номер договора (логин): 68462
-//jzDVODFQ
-
 // MakeAuthRequest makes http authorization request to Selectel Swift API
 func MakeAuthRequest(user, pass, authURL string) (resp *http.Response, err error) {
 	client := &http.Client{}
