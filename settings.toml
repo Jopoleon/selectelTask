@@ -1,0 +1,20 @@
+# ftpserver configuration file
+#
+# These are all the config parameters with their default values. If not present,
+
+# Address to listen on
+listen_host = "localhost"
+
+# Port to listen on
+listen_port = 21
+
+# Public host to expose in the passive connection
+# public_host = ""
+
+# Max number of connections to accept
+max_connections = 1
+
+# Data port range from 10000 to 15000
+# [dataPortRange]
+# start = 10000
+# end = 15000
