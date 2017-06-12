@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/Jopoleon/selectelTask/fclairamb/ftpserver/egorServer"
+	"github.com/Jopoleon/selectelTask/app"
 	"github.com/fclairamb/ftpserver/server"
 	"gopkg.in/inconshreveable/log15.v2"
 )
@@ -17,7 +17,7 @@ var (
 
 func main() {
 	flag.Parse()
-	ftpServer = server.NewFtpServer(egorServer.NewSampleDriver())
+	ftpServer = server.NewFtpServer(app.NewSampleDriver())
 
 	go signalHandler2()
 

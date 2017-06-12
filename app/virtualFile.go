@@ -1,4 +1,4 @@
-package egorServer
+package app
 
 import (
 	"bytes"

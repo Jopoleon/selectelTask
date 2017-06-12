@@ -17,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="driver.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="driver.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/server/driver.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
               <folding>
                 <element signature="e#16#52#0" expanded="true" />
               </folding>
@@ -32,7 +32,7 @@
       <file leaf-file-name="driver.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/server/driver.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1176">
+            <state relative-caret-position="735">
               <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
               <folding />
             </state>
@@ -42,23 +42,32 @@
       <file leaf-file-name="client_handler.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/server/client_handler.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2268">
+            <state relative-caret-position="470">
               <caret line="118" column="32" lean-forward="false" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectelFtp.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/egorServer/selectelFtp.go">
+      <file leaf-file-name="selectelFtp.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/selectelFtp.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5103">
-              <caret line="243" column="95" lean-forward="false" selection-start-line="243" selection-start-column="95" selection-end-line="243" selection-end-column="95" />
+            <state relative-caret-position="-2016">
+              <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
               <folding>
-                <element signature="e#20#221#0" expanded="true" />
-                <element signature="n#!!block;n#ChmodFile#0" expanded="false" />
-                <element signature="n#!!block;n#DeleteFile#0" expanded="false" />
-                <element signature="n#!!block;n#NewSampleDriver#0" expanded="false" />
+                <element signature="e#13#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="httpRequests.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/httpRequests.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#13#126#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,50 +76,30 @@
       <file leaf-file-name="server.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/server/server.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="58" column="81" lean-forward="false" selection-start-line="58" selection-start-column="81" selection-end-line="58" selection-end-column="81" />
+            <state relative-caret-position="462">
+              <caret line="120" column="10" lean-forward="false" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="license.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/license.txt">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../gopkg.in/inconshreveable/log15.v2/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="-441">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="egorFTP.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/egorFTP.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample_driver.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/sample/sample_driver.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2205">
-              <caret line="118" column="24" lean-forward="false" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+            <state relative-caret-position="462">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
-                <element signature="n#!!block;n#Close#0" expanded="false" />
-                <element signature="n#!!block;n#Read#0" expanded="false" />
-                <element signature="n#!!block;n#Seek#0" expanded="false" />
-                <element signature="n#!!block;n#Write#0" expanded="false" />
-                <element signature="e#5989#6042#0" expanded="false" />
-                <element signature="n#!!block;n#Name#0" expanded="false" />
-                <element signature="n#!!block;n#Size#0" expanded="false" />
-                <element signature="n#!!block;n#Mode#0" expanded="false" />
-                <element signature="n#!!block;n#IsDir#0" expanded="false" />
-                <element signature="n#!!block;n#Sys#0" expanded="false" />
-                <element signature="n#!!block;n#externalIP#0" expanded="false" />
+                <element signature="e#14#181#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,7 +127,12 @@
         <option value="$PROJECT_DIR$/fclairamb/ftpserver/license.txt" />
         <option value="$PROJECT_DIR$/fclairamb/ftpserver/sample/sample_driver.go" />
         <option value="$PROJECT_DIR$/fclairamb/ftpserver/egorServer/virtualFile.go" />
+        <option value="$PROJECT_DIR$/egorServer/httpRequests.go" />
         <option value="$PROJECT_DIR$/fclairamb/ftpserver/egorServer/selectelFtp.go" />
+        <option value="$PROJECT_DIR$/egorServer/selectelFtp.go" />
+        <option value="$PROJECT_DIR$/app/httpRequests.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/app/selectelFtp.go" />
       </list>
     </option>
   </component>
@@ -189,20 +183,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="selectelTask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selectelTask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selectelTask" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fclairamb" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,14 +271,14 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1589242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1393643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -318,61 +298,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/fclairamb/ftpserver/egorServer/selectelFtp.go</url>
-          <line>378</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/egorFTP.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../gogs.itcloud.pro/SAS-project/sas/selectelTest.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/sample/conf/settings.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/server/driver.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding>
-            <element signature="e#16#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/server/handle_auth.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/server/server.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="777">
           <caret line="44" column="82" lean-forward="true" selection-start-line="44" selection-start-column="82" selection-end-line="44" selection-end-column="82" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -381,10 +316,21 @@
         <state relative-caret-position="2520">
           <caret line="134" column="70" lean-forward="false" selection-start-line="134" selection-start-column="70" selection-end-line="134" selection-end-column="70" />
           <folding>
-            <element signature="e#20#221#0" expanded="true" />
-            <element signature="n#!!block;n#ChmodFile#0" expanded="false" />
-            <element signature="n#!!block;n#DeleteFile#0" expanded="false" />
+            <element signature="e#20#245#0" expanded="true" />
+            <element signature="n#!!block;n#WelcomeUser#0" expanded="false" />
+            <element signature="n#!!block;n#AuthUser#0" expanded="false" />
+            <element signature="n#!!block;n#ChangeDirectory#0" expanded="false" />
+            <element signature="n#!!block;n#MakeDirectory#0" expanded="false" />
+            <element signature="n#!!block;n#ListFiles#0" expanded="false" />
+            <element signature="n#!!block;n#UserLeft#0" expanded="false" />
+            <element signature="n#!!block;n#GetFileInfo#0" expanded="false" />
+            <element signature="n#!!block;n#GetTLSConfig#0" expanded="false" />
+            <element signature="n#!!block;n#CanAllocate#0" expanded="false" />
+            <element signature="n#!!block;n#GetSettings#0" expanded="false" />
             <element signature="n#!!block;n#NewSampleDriver#0" expanded="false" />
+            <marker date="1497280474931" expanded="false" signature="3175:6223" ph="/.../" />
+            <marker date="1497280474931" expanded="false" signature="9328:9343" ph="{...}" />
+            <marker date="1497280474931" expanded="false" signature="9470:9485" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -420,6 +366,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#67#235#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -523,6 +472,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding>
+            <element signature="e#67#235#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -551,6 +503,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="149" column="5" lean-forward="false" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -593,6 +546,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="46" column="76" lean-forward="false" selection-start-line="46" selection-start-column="76" selection-end-line="46" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -600,13 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/server/client_handler.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="118" column="32" lean-forward="false" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -616,18 +563,14 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/server/driver.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/egorServer/virtualFile.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="e#20#78#0" expanded="false" />
+            <element signature="n#!!block;n#externalIP#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -635,18 +578,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="335" column="5" lean-forward="false" selection-start-line="335" selection-start-column="5" selection-end-line="335" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/licanse.txt" />
-    <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/server/server.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="58" column="81" lean-forward="false" selection-start-line="58" selection-start-column="81" selection-end-line="58" selection-end-column="81" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/licanse.txt" />
     <entry file="file://F:/Go/src/os/types.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -658,6 +594,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="75" column="57" lean-forward="false" selection-start-line="75" selection-start-column="57" selection-end-line="75" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -665,6 +602,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -696,6 +634,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/video.info" />
+    <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/server/driver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="e#16#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/server/driver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/egorServer/selectelFtp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="191" column="75" lean-forward="false" selection-start-line="191" selection-start-column="75" selection-end-line="191" selection-end-column="75" />
+          <folding>
+            <element signature="e#20#245#0" expanded="true" />
+            <element signature="n#!!block;n#WelcomeUser#0" expanded="false" />
+            <element signature="n#!!block;n#AuthUser#0" expanded="false" />
+            <element signature="n#!!block;n#ChangeDirectory#0" expanded="false" />
+            <element signature="n#!!block;n#MakeDirectory#0" expanded="false" />
+            <element signature="n#!!block;n#ListFiles#0" expanded="false" />
+            <element signature="n#!!block;n#UserLeft#0" expanded="false" />
+            <element signature="n#!!block;n#GetFileInfo#0" expanded="false" />
+            <element signature="n#!!block;n#GetTLSConfig#0" expanded="false" />
+            <element signature="n#!!block;n#CanAllocate#0" expanded="false" />
+            <element signature="n#!!block;n#GetSettings#0" expanded="false" />
+            <element signature="n#!!block;n#NewSampleDriver#0" expanded="false" />
+            <marker date="1497280474931" expanded="false" signature="3175:6223" ph="/.../" />
+            <marker date="1497280474931" expanded="false" signature="9328:9343" ph="{...}" />
+            <marker date="1497280474931" expanded="false" signature="9470:9485" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/egorFTP.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -704,26 +685,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video.info" />
-    <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/egorServer/selectelFtp.go">
+    <entry file="file://$PROJECT_DIR$/../../../gopkg.in/inconshreveable/log15.v2/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5103">
-          <caret line="243" column="95" lean-forward="false" selection-start-line="243" selection-start-column="95" selection-end-line="243" selection-end-column="95" />
+        <state relative-caret-position="-441">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/server/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="120" column="10" lean-forward="false" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fclairamb/ftpserver/server/client_handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="118" column="32" lean-forward="false" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/virtualFile.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="e#20#221#0" expanded="true" />
-            <element signature="n#!!block;n#ChmodFile#0" expanded="false" />
-            <element signature="n#!!block;n#DeleteFile#0" expanded="false" />
-            <element signature="n#!!block;n#NewSampleDriver#0" expanded="false" />
+            <element signature="e#14#181#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../fclairamb/ftpserver/server/driver.go">
+    <entry file="file://$PROJECT_DIR$/app/httpRequests.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        <state relative-caret-position="924">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
-            <element signature="e#16#52#0" expanded="true" />
+            <element signature="e#13#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/selectelFtp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2016">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <element signature="e#13#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
